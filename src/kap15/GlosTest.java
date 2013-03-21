@@ -72,6 +72,7 @@ public class GlosTest {
                     case '0':
                         System.out.println("BYEBYE");
                         fortsatt = false;
+                        System.out.println("hej mamma");
                         break;
                     
                 }
